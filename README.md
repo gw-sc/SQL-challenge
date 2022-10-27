@@ -18,6 +18,8 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 ## Background
 
+![employees](Images/getty_519578900_316016.jpg)
+
 It’s a beautiful spring day, and it’s been two weeks since you were hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
 
 ## Instructions
